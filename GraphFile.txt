@@ -1,0 +1,10 @@
+00     Andre       Music Computerskills Football Running Movies            Cinema Asianfood Cats Betting Bicycling    
+01     Artur       Football Computerskills Reading Sport Hunting           Fastfood Indianfood Dogs Betting Noise    
+02     Tomas       Football Computerskills chess Sport Movies              Fastfood Cars Dogs Betting Noise    
+03     Semon       Skiing Bicycling chess Sport Movies                     Fastfood Indianfood Dogs Betting Noise     
+04     James       Boxing Reading writing Swimming Bicycling               Fastfood Indianfood Dogs Betting Noise     
+05     Adame       Football Computerskills chess Sport Movies              Fastfood Cars Dogs Betting Noise
+06     Steev       Chess Sport Movies Fishing Reading                      Sport Fastfood IndianFood Movies Chess
+07     Laura       Fishing Singing Swimming Reading Poetry                 Running  Fishing Reading Skiing Computerskills
+08     Alexe       Chess Sport Movies Fishing Reading                      Sport Fastfood IndianFood Movies Chess
+09     Liiza       Music Computerskills Movies Boxing Skiin                CardsPlying Signing Movies Swimming Boxing
